@@ -9,6 +9,10 @@ public class Test {
 		C c = new C();
 		c.getData();
 
+		for (int i = 0; i < 5; i++) {
+			System.out.println("Hello velocity");
+		}
+
 	}
 
 }
